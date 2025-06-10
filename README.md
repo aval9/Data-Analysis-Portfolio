@@ -52,11 +52,11 @@ The goal is to explore trends in the gaming industry, understand platform and ge
 ## MAX: triggering samples through Flucoma
 
 ### What is Max?
-- Max is a powerful and extremely versatile tool to manipulate and create your own sounds. It is basically a visual programming language and it works with objects.
+- Max is a powerful and extremely versatile tool to manipulate and create your own sounds. It is a visual programming language and it works with objects.
 ### The patch
 - In this patch I built a system to use a drumset as a melodic instrument: I placed triggers on the drums and they work like piezos, detecting sounds and communicating with Max. There, every input triggers a specific sound that I previously selected and programmed. Having two triggers on two different surfaces allows me to move around a precise harmonic strucure.
 ### Result
-- Because you need to have the software to be able to see it in action, here is an example of how this patch works.
+- Because you need to have the software to be able to see it in action, [here](https://youtu.be/dij0Q8sW4ug) is an example of how the patch works.
 
 ---
 
