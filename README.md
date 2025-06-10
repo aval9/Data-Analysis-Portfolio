@@ -1,5 +1,5 @@
 # Hi!
-In this repository I share projects and track my progress in Data Analytics related topics.
+My name is Agnese Valmaggia, and in this repository I share projects and track my progress in Data Analytics related topics.
 In addition, I gathered some extra material to show my skills with alternative (music) programming tools like [Max MSP](https://cycling74.com/products/max).
 
 ## Table of content:
