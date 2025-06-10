@@ -76,6 +76,6 @@ The goal is to explore trends in the gaming industry, understand platform and ge
 
 **Agnese Valmaggia**
 
-[GitHub Profile](https://github.com/aval9/aval9)  
-[LinkedIn](https://www.linkedin.com/in/agnese-valmaggia-81b542341/) 
+[GitHub Profile](https://github.com/aval9/Portfolio)  
+[LinkedIn](https://www.linkedin.com/in/agnesevalmaggia) 
 
