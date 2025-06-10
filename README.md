@@ -50,8 +50,8 @@ The goal is to explore trends in the gaming industry, understand platform and ge
 ---
 
 ## 📂 Project Structure
-- VG_Sales.ipynb # Jupyter notebook with full EDA and visualizations
-- README.md # Project documentation (this file)
+- [VG_Sales.ipynb](https://github.com/aval9/aval9/blob/main/VG_Sales.ipynb) - Jupyter notebook with full EDA and visualizations
+- README.md - Project documentation (this file)
 
 ---
 
