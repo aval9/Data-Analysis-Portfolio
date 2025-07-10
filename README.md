@@ -4,6 +4,7 @@ In addition, I gathered some extra material to show my skills with alternative (
 
 ## Table of content:
 - **Python**: [Video game sales – Exploratory Data Analysis](VG_Sales.ipynb)
+- **SQL** (in Python): [Chicago Socioeconomics Data - Introductory project](SQL_in_Python.ipynb)
 - **Max**: turning a drumset into a melodic instrument with Sensory Percussion triggers and Flucoma applied to a [Max patch](Creazione_GH.maxpat)
 
 ---
@@ -46,6 +47,24 @@ The goal is to explore trends in the gaming industry, understand platform and ge
 - Add interactive dashboards using Power BI  
 - Include regional sales heatmaps  
 - Expand to predictive analysis with regression or clustering
+
+---
+## SQL: Chicago Socioeconomic data – Introductory project
+
+A small personal project to practice using **SQL within Python**, focusing on **SQLite**. It includes basic SQL queries executed on a local in-memory database created and managed through Python.
+
+> ⚠️ This is an **introductory project** – I plan to expand it in the future using **MySQL Workbench** and more complex, real-world scenarios.
+
+### Contents:
+- Creation of an in-memory SQLite database
+- Insertion of sample data
+- Execution of basic SQL queries: `SELECT`, `WHERE`, `ORDER BY`
+- Python-based data manipulation and result visualization
+
+### Technologies Used
+- Python 3.x
+- SQLite (via `sqlite3`)
+- Jupyter Notebook
 
 ---
 
