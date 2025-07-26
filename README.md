@@ -4,6 +4,7 @@ In addition, I gathered some extra material to show my skills with alternative (
 
 ## Table of content:
 - **Python**: [Video game sales – Exploratory Data Analysis](VG_Sales.ipynb)
+- **SQL**: [Brazilian E-commerce SQL analysis](E-commerce.sql)
 - **SQL** (in Python): [Chicago Socioeconomics Data - Introductory project](SQL_in_Python.ipynb)
 - **Max**: turning a drumset into a melodic instrument with Sensory Percussion triggers and Flucoma applied to a [Max patch](Creazione_GH.maxpat)
 
@@ -49,11 +50,27 @@ The goal is to explore trends in the gaming industry, understand platform and ge
 - Expand to predictive analysis with regression or clustering
 
 ---
+
+## SQL: Brazilian E-commerce SQL analysis
+
+This project analyzes real e-commerce data from the Brazilian marketplace Olist using MySQL.  
+It simulates the kind of data analysis a business might perform to understand customer behavior, seller performance, order value, and logistics.
+
+## Dataset
+- **Source**: [Olist dataset on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- **Tables** include: `customers`, `order_items`, `order_payments`, `orders`, `products`, `sellers`.
+## Skills
+- Writing SQL queries using `SELECT`, `JOIN`, `GROUP BY`, `HAVING`, `ORDER BY`, `DISTINCT`, `LIKE`, wildcards and aggregates (`SUM`, `COUNT`, `AVG`)
+- Analyzing customer behavior and purchase frequency
+- Identifying top-performing sellers
+- Calculating total revenue and shipping costs
+- Exploring delivery performance and high-value orders
+
+---
+
 ## SQL: Chicago Socioeconomic data – Introductory project
 
 A small personal project to practice using **SQL within Python**, focusing on **SQLite**. It includes basic SQL queries executed on a local in-memory database created and managed through Python.
-
-> ⚠️ This is an **introductory project** – I plan to expand it in the future using **MySQL Workbench** and more complex, real-world scenarios.
 
 ### Contents:
 - Creation of an in-memory SQLite database
