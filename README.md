@@ -59,12 +59,14 @@ It simulates the kind of data analysis a business might perform to understand cu
 ## Dataset
 - **Source**: [Olist dataset on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - **Tables** include: `customers`, `order_items`, `order_payments`, `orders`, `products`, `sellers`.
-## Skills
+## Contents
 - Writing SQL queries using `SELECT`, `JOIN`, `GROUP BY`, `HAVING`, `ORDER BY`, `DISTINCT`, `LIKE`, wildcards and aggregates (`SUM`, `COUNT`, `AVG`)
 - Analyzing customer behavior and purchase frequency
 - Identifying top-performing sellers
 - Calculating total revenue and shipping costs
 - Exploring delivery performance and high-value orders
+### Technology Used
+- MySQL Workbench
 
 ---
 
@@ -72,12 +74,11 @@ It simulates the kind of data analysis a business might perform to understand cu
 
 A small personal project to practice using **SQL within Python**, focusing on **SQLite**. It includes basic SQL queries executed on a local in-memory database created and managed through Python.
 
-### Contents:
+### Contents
 - Creation of an in-memory SQLite database
 - Insertion of sample data
 - Execution of basic SQL queries: `SELECT`, `WHERE`, `ORDER BY`
 - Python-based data manipulation and result visualization
-
 ### Technologies Used
 - Python 3.x
 - SQLite (via `sqlite3`)
